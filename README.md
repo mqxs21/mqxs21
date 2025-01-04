@@ -5,18 +5,27 @@
 
 ### 🌐 **Languages**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1000&pause=200&color=10B981&center=true&vCenter=true&width=435&lines=C%2B%2B+(USACO);C%23+(Unity);JS+(Flipper+Zero+%26+WebApps);Python+(Totally+Legal+Stuff);Java+(Robotics)+;Windows+Batch+(CyberPatriot)"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=200&color=10B981&center=true&vCenter=true&width=140&lines=C%2B%2B"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=Java"/>
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=C%23"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=JS"/>
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=200&color=10B981&center=true&vCenter=true&width=140&lines=Python"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=Batch"/>
 
 ---
 
 ### 🎮 **Game Development**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F59E0B&center=true&vCenter=true&width=600&lines=Unity+is+the+best+;Godot+and+Unreal+is+mid"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F59E0B&repeat=false&center=true&vCenter=true&width=600&lines=Godot+and+Unreal+are+mid;Unity+is+the+best+game+engine"/>
 
 ---
-### ⌨️ **Compiler**
+### ⌨️ **Compilers**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=200&color=ADD8E6&center=true&vCenter=true&width=600&lines=VSCode;XCode;Literally+Pen+and+Paper"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=200&color=ADD8E6&center=true&vCenter=true&width=140&lines=VSCode"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=400&color=1ADD8E6&center=true&vCenter=true&width=140&lines=XCode"/>
+
 
 </div>
 
