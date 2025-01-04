@@ -28,7 +28,10 @@ JetBrains is **overrated.**
 # "<<std::endl** ⚡ 
 
 <p align="center">
-  <a href="[https://github.com/your-profile](https://mqxs21.itch.io/)"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mqxs21.itch.io/">
+  <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" alt="Itch.io" width="40" height="40"/>
+</a>
+
 
 </p>
 
