@@ -27,11 +27,12 @@ JetBrains is **overrated.**
 
 # "<<std::endl** ⚡ 
 
-<p align="center">
+<p align="center" style="margin-bottom: 10px;">
   <a href="https://mqxs21.itch.io/">
-  <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" alt="Itch.io" width="40" height="40"/>
-</a>
-
-
+    <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" alt="Itch.io" width="40" height="40"/>
+  </a>
+  <a href="https://discord.com/users/your-discord-id">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord" width="40" height="40"/>
+  </a>
 </p>
 
