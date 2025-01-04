@@ -5,14 +5,14 @@
 
 ### 🌐 **Languages**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=200&color=10B981&center=true&vCenter=true&width=140&lines=C%2B%2B"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=Java"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&repeat=false&pause=200&color=10B981&center=true&vCenter=true&width=140&lines=C%2B%2B"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=Java"/>
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=C%23"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=JS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=C%23"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=JavaScript"/>
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=200&color=10B981&center=true&vCenter=true&width=140&lines=Python"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=Batch"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&repeat=false&pause=200&color=10B981&center=true&vCenter=true&width=140&lines=Python"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&repeat=false&pause=400&color=10B981&center=true&vCenter=true&width=140&lines=Batch"/>
 
 ---
 
