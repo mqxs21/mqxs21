@@ -1,6 +1,6 @@
 # 👋 hello
 
-### 💻 I do stuff
+### 🌐 Languages:
 
 - **C++** (USACO)
 - **Java** 
@@ -16,8 +16,9 @@ I use **Unity** as my go-to game engine because I prefer an engine that actually
 
 <hr/>
 
-### ⌨️Compiler:
-VSCode because its just good <br/>
+### ⌨️C ompiler:
+**VSCode** because its just good 
+<br/>
 JetBrains is overrated
 
 <!--
