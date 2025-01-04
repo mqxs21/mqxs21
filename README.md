@@ -30,13 +30,6 @@
 </div>
 
 
-
-
-<br/>
-
-
-
-
 # "<<std::endl 
 
 <p align="center" style="margin-bottom: 10px;">
