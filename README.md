@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 hello
 
 ### 💻 I do stuff
 
