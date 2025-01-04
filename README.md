@@ -31,7 +31,7 @@ JetBrains is **overrated.**
   <a href="https://mqxs21.itch.io/">
     <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" alt="Itch.io" width="40" height="40"/>
   </a>
-  <a href="https://discord.com/users/your-discord-id">
+  <a href="https://discord.com/users/864003569798742028">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord" width="40" height="40"/>
   </a>
 </p>
