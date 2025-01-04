@@ -1,31 +1,35 @@
 # std::cout<<" 
 
 
+<div align="center">
+
 ### 🌐 **Languages**
-<p align = "center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=435&lines=%F0%9F%8C%90+I+use:+;C%2B%2B+(USACO);C%23+(Unity);JS+(Flipper+Zero+%26+WebApps);Python+(Totally+Legal+Stuff);Java+(Robotics)+;Windows+Batch+(CyberPatriot)"/>
-</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1000&pause=200&color=10B981&center=true&vCenter=true&width=435&lines=C%2B%2B+(USACO);C%23+(Unity);JS+(Flipper+Zero+%26+WebApps);Python+(Totally+Legal+Stuff);Java+(Robotics)+;Windows+Batch+(CyberPatriot)"/>
 
 ---
 
 ### 🎮 **Game Development**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F59E0B&center=true&vCenter=true&width=600&lines=Unity+is+the+best+;Godot+and+Unreal+is+mid"/>
-</p>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F59E0B&center=true&vCenter=true&width=600&lines=Unity+is+the+best+;Godot+and+Unreal+is+mid"/>
 
 ---
-
 ### ⌨️ **Compiler**
 
-**VSCode** because it’s just good
-JetBrains is **overrated.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=200&color=ADD8E6&center=true&vCenter=true&width=600&lines=VSCode;XCode;Literally+Pen+and+Paper"/>
+
+</div>
+
+
+
+
+
+
 
 
 ---
 
-# "<<std::endl** ⚡ 
+# "<<std::endl 
 
 <p align="center" style="margin-bottom: 10px;">
   <a href="https://mqxs21.itch.io/">
