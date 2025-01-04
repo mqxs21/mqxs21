@@ -16,7 +16,7 @@ I use **Unity** as my go-to game engine because I prefer an engine that actually
 
 <hr/>
 
-### ⌨️C ompiler:
+### ⌨️ Compiler:
 **VSCode** because its just good 
 <br/>
 JetBrains is overrated
