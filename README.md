@@ -1,4 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
+
+### 💻 I do stuff
+
+- **C++** (USACO)
+- **Java** 
+- **JavaScript** (Flipper Zero apps, Google extensions, WebApps)
+- **C#** (Primarily with Unity)
+- **Python**
+- **Windows Batch Scripting**
+  
+<hr/>
+
+### 🎮 Game Development:
+I use **Unity** as my go-to game engine because I prefer an engine that actually works sover **Godot** and **Unreal Engine**.
+
+<hr/>
+
+### ⌨️Compiler:
+VSCode because its just good <br/>
+JetBrains is overrated
 
 <!--
 **mqxs21/mqxs21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
