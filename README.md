@@ -3,11 +3,11 @@
 ### 🌐 Languages:
 
 - **C++** (USACO)
-- **Java** 
-- **JavaScript** (Flipper Zero apps, Google extensions, WebApps)
-- **C#** (Primarily with Unity)
-- **Python**
-- **Windows Batch Scripting**
+- - **C#** (Primarily with Unity)
+- - **JavaScript** (Flipper Zero apps, Google extensions, WebApps)
+- **Java** (Robotics)
+- **Python** (For totally legal stuff)
+- **Windows Batch Scripting** (CyberPatriot)
   
 <hr/>
 
