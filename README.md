@@ -16,7 +16,7 @@
 
 ### 🎮 **Game Development**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F59E0B&repeat=false&center=true&vCenter=true&width=600&lines=Godot+and+Unreal+are+mid;Unity+is+the+best+game+engine"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F59E0B&repeat=false&center=true&vCenter=true&width=600&lines=Unity 6"/>
 
 ---
 ### ⌨️ **Compilers**
